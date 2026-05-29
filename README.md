@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Saadi195/Saadi195/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Saadi195/Saadi195/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://octodex.github.com/images/baracktocat.jpg"  />
 
 ###
@@ -51,11 +44,5 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Saadi195/Saadi195/snake-output/snake.svg" alt="Snake animation" />
 
 ###
